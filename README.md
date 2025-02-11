@@ -40,3 +40,7 @@ Exploring integrating more seamless or embedded way for users to enter their cre
 3. Explore routing payment information to a second processor ad hoc.
 
 If one payment processor fails to process the transaction due to vendor error. Routing the payment information to a backup processor could keep the user from being forced to try entering their payment information a second time.
+
+## Appendix
+### Customers with unpaid subs
+![Alt text](customers_with_unpaid_subs.png)
