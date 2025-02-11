@@ -43,4 +43,4 @@ If one payment processor fails to process the transaction due to vendor error. R
 
 ## Appendix
 ### Customers with unpaid subs
-![Alt text](customers_with_unpaid_subs.png)
+![Alt text](images/customers_with_unpaid_subs.png)
