@@ -12,9 +12,8 @@ The finance team has discovered that there are numerous subscriptions that haven
 
 ## Methods & Skills Used
 - Exploratory Data Analysis
-- Joins
+- Joins / Anti Join
 - Aggregate Functions
-- Union / Union All
 - CTEs
 - Subqueries
 - Case Statements
