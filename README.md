@@ -17,6 +17,7 @@ The finance team has discovered that there are numerous subscriptions that haven
 - CTEs
 - Subqueries
 - Case Statements
+- LISTAGG()
 
 ## Results 
 
