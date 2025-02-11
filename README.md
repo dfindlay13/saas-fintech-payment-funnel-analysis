@@ -11,6 +11,13 @@ The finance team has discovered that there are numerous subscriptions that haven
 ![Alt text](images/paid_vs_unpaid_subs.png)
 
 ## Methods & Skills Used
+- Exploratory Data Analysis
+- Joins
+- Aggregate Functions
+- Union / Union All
+- CTEs
+- Subqueries
+- Case Statements
 
 ## Results 
 
