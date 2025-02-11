@@ -32,7 +32,7 @@ Looking at the payment funnel there is additional improvement that can be made. 
 
 Develop and execute a targeted campaign to retarget customers who have not attempted to pay for their subscriptions. This could include email reminders, SMS notifications, and personalized calls to action to prompt users to complete the payment process.
 
-2. Optimize the checkout flow
+2. Optimize the checkout flow.
 
 Exploring integrating more seamless or embedded way for users to enter their credit card information such as Apple Pay or Google Pay. Additionally, if not already done reduce the number of pages the user needs to click through from start to finish.
    
