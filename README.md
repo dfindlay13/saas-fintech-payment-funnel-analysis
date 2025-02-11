@@ -24,7 +24,7 @@ After conducting the analysis there is  significant room for opportunity as only
 
 Looking at the payment funnel there is additional improvement that can be made. Specifically in the steps between the widget being opened and the user successfully submitting payment to the third party processor. Users are experiencing friction entering their payment information and submitting it correctly the first attempt. 
 
-![Alt text] (images/funnel_visual.png)
+![Alt text](images/funnel_visual.png)
 
 ## Recommendations
 
